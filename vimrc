@@ -1,4 +1,4 @@
-## http://marcgg.com/blog/2016/03/01/vimrc-example/
+"http://marcgg.com/blog/2016/03/01/vimrc-example/
 
 execute pathogen#infect()
 
