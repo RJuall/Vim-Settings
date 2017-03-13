@@ -1,0 +1,45 @@
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git@github.com:vim-rails/vim-rails.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = git@github.com:vim-multiple-cursors/vim-multiple-cursors.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git@github.com:vim-fugitive/vim-fugitive.git
+[submodule "bundle/vim-bundler"]
+	path = bundle/vim-bundler
+	url = git@github.com:vim-bundler/vim-bundler.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:nerdtree/nerdtree.git
+[submodule "bundle/lightline.vim"]
+	path = bundle/lightline.vim
+	url = git@github.com:lightline/lightline.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = git@github.com:vim-endwise/vim-endwise.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git@github.com:supertab/supertab.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:nerdcommenter/nerdcommenter.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = git@github.com:tlib_vim/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = git@github.com:vim-addon-mw-utils/vim-addon-mw-utils.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+	url = git@github.com:vim-snipmate/vim-snipmate.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = git@github.com:vim-snippets/vim-snippets.git
